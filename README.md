@@ -1,19 +1,3 @@
-Kevin Byon CWID: 887345262
-
-email: kbyon@csu.fullerton.edu
-
-Johnny Quach CWID: 885168989
-
-email: JqJohnny@csu.fullerton.edu
-
-Jeevan Gowda Hemanth Kumar CWID: 885168989
-
-email: jeevangowda@csu.fullerton.edu
-
-Samantha Rehome CWID: 887904126
-
-email: 4srehome@csu.fullerton.edu
-
 # VizAI
 
 VizAI is a web application that allows users to upload datasets, generate AI-driven insights, and create visualizations. The application is built using FastAPI for the backend and React for the frontend. It leverages Google Generative AI for generating insights from datasets.
